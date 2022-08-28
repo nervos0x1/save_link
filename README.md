@@ -29,6 +29,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -84,6 +85,20 @@ To run the application, simply follow these steps:
     ```sh
     docker-compose up -d
     ```
+
+<hr/>
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+to save your link, just select the category and put in the text field what you want to save and press 'Enter'.
+
+<img src="src/save_link.png">
+
+<br/>
+To remove a link, simply place the index or a saved text and click the 'removed' button.
+<br/>
+<img src="src/remove_link.png">
 
 <hr/>
 
