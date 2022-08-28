@@ -75,7 +75,7 @@ To run the application, simply follow these steps:
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/nervos0x1/save_link.git
    ```
 2. Go to the paste
     ```sh
@@ -120,5 +120,5 @@ To remove a link, simply place the index or a saved text and click the 'removed'
 
 Lucas Moreira - [@linkedIn](https://www.linkedin.com/in/lcsmoreira/) - lucasalvesmoreira012@gmail.com
 
-Project Link: [Save your Link](https://github.com/your_username/repo_name)
+Project Link: [Save your Link](https://github.com/nervos0x1/save_link)
 
