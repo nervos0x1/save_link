@@ -74,7 +74,7 @@ To run the application, simply follow these steps:
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/nervos0x1/save_link
+   git clone https://github.com/nervos0x1/save_link.git
    ```
 2. Go to the paste
     ```sh
