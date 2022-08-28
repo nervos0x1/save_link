@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  save_link:
+    container_name: save_your_links
+    image: save_link
+    build: .
+    ports:
+      - 8501:8501
+
+    volumes:
+      - type: bind
+        source: ./links
+        target: /app/links
+
+
